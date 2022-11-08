@@ -15,11 +15,8 @@
     "vite-plugin-solid": "^2.3.0"
   },
   "dependencies": {
-    "@urql/core": "^3.0.5",
+    "@apollo/client": "^3.7.1",
     "graphql": "^16.6.0",
-    "graphql-ws": "^5.11.2",
-    "solid-js": "^1.5.1",
-    "subscriptions-transport-ws": "^0.11.0",
-    "wonka": "^6.1.1"
+    "solid-js": "^1.6.1"
   }
 }
