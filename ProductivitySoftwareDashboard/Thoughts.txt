@@ -1,0 +1,49 @@
+Here are my thoughts for this semester.
+
+I need to increase my productivity, or really what's most important is that I increase my
+time efficiency, college is inherently very time inneficient, which is why using the laptop in class is key. 
+
+Goals for the semester.
+*1) Get A's on all classes
+*2) Create a simple barebones efficient system to automate some portions of school work.
+*3) Work out three times a week and get enough calories aka about 2800 calories and around one pound of chicken per day.
+*4) Carve time for both some doordash, and some time to work on personal protafolio.
+
+
+Goal 1)
+
+    The most difficult part of this is making sure I do the following.
+        * Do all assignments for all classes.
+        * I prepare in the most efficient way possible for tests.
+    
+    For the first point in order to do all assignments I need to create a system of notifications, this could be done a number of ways.
+    What I am inclined to do is to bring all the information I need to a front end for me to view all the information that I need to know. 
+    So a system of notifications, that lets me know what I need to know when I need to know, and then gives me a time estimation on how long I need to do the assignment.
+
+    I also need to be keept aware of things like tests and quizes which require me to be prepared before hand, and is it not so much due date based,
+    but rather prep based. 
+
+Goal 2)
+    In order for me to create the system I will need to neglect my programming for my portafolio, but since it is a front end dashboard, I can later use
+    it on my portafolio.
+    I need to get results as fast as possible for that reason, I need to absolutely make function the only priority.
+    However, the front end aesthetics have arguably a good function as the endPoint abstraction.
+
+Goal 3)
+    I just need to make my workouts and diet non-negotiable, and the only way to do that is to make sure that they are on 
+    autopilot, meaning they are habitualized sufficently, and the only way to do that is to make sure I do what I have planned to do for
+    enough time until they no longer take mental energy, but until then they require a slighty higher level of energy. 
+    However, since I already made the decision the mental energy should be minimal and should be mainly used in stopping my thinking
+    or in using logic to convince myself to do it. 
+
+Goal 4) 
+    So I need to calendarize and create weekly sprints, for doordash since a lot of my time and energy is going into this semester.
+    my volume will decrease, but I should still be able to doordash 3 times a week, so one I have a better idea of my schedule 
+    I should carve out time, for example today would be a good day to do that. In terms of classes, I should be able to work, on my goals during class
+    since the time spent in class is often very time inneficient. 
+
+
+Next stepts to spend time one:
+    * Create the concept idea for the schoolHelper dashboard
+    * Create a weekly sprint for the goals of this week.
+    

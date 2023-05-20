@@ -1,0 +1,34 @@
+So for my english assignemnts the
+the modules contains a weekly calendar module
+and this post actually contain the assignemnts I need to 
+complete so in reality the thing I need to be able to do eaily
+for the classes is extract data from each of the section in 
+the canvas pages
+so I should figure out a way to easily do that in the front end
+maybe by having a docs area for the front end
+with tips for JSON pocessing for canvas
+what I can is a way to get certain info
+for example
+the best thing for me to do would be to be able to 
+spit out the modules
+and the be able to select a certain module and spit out the things in that module
+and then spit out the relevant page info form that module
+so I think creating some classes that would do the underground logic for me would be helpful
+so that I can apply the methodoloy for all future classes where I need to extract certain data,
+and I need to update this data constantyl
+I don't mind runnign the program in my computer
+in fact I should run most of the programs inside docker containers
+that I push to the cloud
+
+I also have a lot of readings for my classes, I would
+like to be able to access those readings from my own website
+and that's just because a lot of times the readings are just hard to 
+find and this make it really annoying
+
+also I can't full screen withouth dowloading
+
+I should automatically fetch the text file
+then I should turn it into a string, then send a promtp
+to gtp3 to summarize the text into a single paragraph,
+and then I should be show a summary of that text 
+for the read

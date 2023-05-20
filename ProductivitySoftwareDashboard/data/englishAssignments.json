@@ -1,0 +1,13 @@
+{"data":{
+"assignments":[
+{"name":"English","due":"2016-10-10","description":"Read chapter 1"},
+{"name":"English","due":"2016-10-10","description":"Read chapter 1"},
+{"name":"English","due":"2016-10-10","description":"Read chapter 1"},
+{"name":"English","due":"2016-10-10","description":"Read chapter 1"},
+{"name":"English","due":"2016-10-10","description":"Read chapter 1"},
+]
+
+}
+}
+
+// make this an array of assignemtn for english

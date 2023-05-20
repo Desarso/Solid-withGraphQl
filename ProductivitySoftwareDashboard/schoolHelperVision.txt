@@ -1,0 +1,33 @@
+A front end dashboard that helps me with school, what are the main function that this app needs to do.
+
+*1) Needs to display grade data for each class.
+*2) Needs to display the upcoming assignment and quizes/tests, and their grade value percentage.
+*3) If classes don't use canvas or other it should still be able to remind me of the work needed by me. 
+*4) It should have a calendar system, it can do this in the background but a dashboard similar to canvas might work,
+but should be able to aggregate data from different sources. Or pre input data to be reminded later.
+
+I'm gonna go thru each course this semester, and list the way assignmnets are listed
+
+CSC 20:
+    might just be due dates, weird they don't use modules
+
+
+
+
+
+I'm thinking I should just pull data from due date, and from 
+assignemnts info, then add on data from other website thru simple scraping
+then also add conditions for classes, and for discussion post, like an early notifications
+
+I would also like assignments to auto complete on their own, so 
+for example I would like gpt3 to complete discussion post for me.
+I prompt it with the fact, and then I being and end the post. 
+
+
+I fucked up and erase my requirements thinking process.
+I left of by simplifying.
+I'm gonna write a simple app with just html
+no css 
+I will take the the canvas api check for both assignemtns and grades, and then display both grades at the top, and the a list
+of assignemnts, the type of assignemt the class they are a part of, the grade percent value.
+Only the assignemnts due in the next 2 weeks.
